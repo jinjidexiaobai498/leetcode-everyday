@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "win64",
+            "includePath": [
+                "${default}"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "F:/tools/Scoop/apps/mingw/12.2.0-rt_v10-rev1/bin/g++.exe",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
