@@ -11,8 +11,10 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.19041.0",
-            "compilerPath": "F:/tools/Scoop/apps/mingw/12.2.0-rt_v10-rev1/bin/g++.exe",
-            "intelliSenseMode": "windows-gcc-x64"
+            "compilerPath": "F:/BuildTools/mingw64/bin/g++.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cppStandard": "c++17",
+            "cStandard": "c17"
         }
     ],
     "version": 4
