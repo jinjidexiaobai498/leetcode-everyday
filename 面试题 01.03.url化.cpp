@@ -11,7 +11,7 @@ using namespace std;
 // @lc code=start
 class Solution {
   public:
-    string replaceSpaces(string S, int length)
+    auto replaceSpaces(string S, int length) -> string
     {
         string s;
         for(int i=0;i<length;i++){
